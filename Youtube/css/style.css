@@ -1,0 +1,59 @@
+body{
+    font-family: "roboto";
+}
+.w-96{
+    width:30rem;
+}
+sidebar ul>li>a:hover{
+    background-color: #e5e5e5;
+}
+sidebar div:hover{
+    background-color: #e5e5e5;
+   
+}
+sidebar div>i:hover{
+    color: red;
+}
+.text-red{
+    color: red;
+}.pt-5{
+    margin-top: 5rem;
+}
+.videos{
+    background-color: #F9F9F9;
+}
+cards{
+  
+   width:1200px;
+}
+.t a:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+}
+cards a:hover{
+    text-decoration: underline;
+}
+.pt-5{
+    padding-top: 0px;
+}
+.thumbnail{
+    padding-top: 2rem;
+}
+.videos{
+    background-color: #F9F9F9;
+    padding-top: 1.5rem;
+    padding-left: 1rem;
+    width:100%;
+}
+.custombottom{
+    bottom:-9rem;
+}
+.h-40{
+    height: 9.5rem;
+}
+.ml-60{
+    margin-left: 14rem;
+}
+.ml-40{
+    margin-left: 9.5rem;
+}
